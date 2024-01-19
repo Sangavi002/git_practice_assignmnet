@@ -16,4 +16,4 @@ function primeNumber(num){
     
 }
 
-primeNumber(6);
+primeNumber(8);
