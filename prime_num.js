@@ -21,3 +21,7 @@ primeNumber(5);
 function sum() {
     console.log(1+1);
 }
+
+function multiply() {
+    console.log(1*1);
+}
