@@ -17,3 +17,7 @@ function primeNumber(num){
 }
 
 primeNumber(8);
+
+function sum() {
+    console.log(1+1);
+}
