@@ -6,7 +6,6 @@ function primeNumber(num){
     else{
         for(i=2;i<num;i++){
             if(num % i == 0){
-                console.log(i);
                 primeFlag = false;
                 break;
             }
